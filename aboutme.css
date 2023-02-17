@@ -1,0 +1,24 @@
+img{
+  width: 250px;
+  height:250px;
+}
+body{
+  background: rgb(131, 185, 214);
+}
+
+.firstDiv{
+  color: red;
+}
+h1{
+  border:5px solid red;
+  text-align: center;
+}
+
+.secondDiv{
+  border: 3px dotted purple;
+  width:25%;
+}
+
+.thirdDiv{
+  
+}
